@@ -1,5 +1,6 @@
 # Article contributed to GeeksforGeeks
 ## Deploying Django application on Heroku with Postgres as backend.
+<p> Source code to assist the readers of my article published in GeeksforGeeks </p>
 <a href = "https://www.geeksforgeeks.org/deploying-django-app-on-heroku-with-postgres-as-backend/"> https://www.geeksforgeeks.org/deploying-django-app-on-heroku-with-postgres-as-backend/ </a>
 
 ## Project set-up
